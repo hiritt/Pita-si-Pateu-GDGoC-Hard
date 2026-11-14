@@ -32,7 +32,7 @@ node cli.mjs cp3 examples/demo-cp3.json
 node cli.mjs cp4 examples/demo-cp4.json
 ```
 
-For real input files, the CLI supports `--out`, `--firestore-export` (H1), and `--main-files` with `--cp3-answers` (H4). See `node cli.mjs --help` for the command syntax.
+For real input files, the CLI supports `--out`, `--firestore-export` (H1), and `--main-files` with `--cp3-answers` (H4). See `node cli.mjs --help` for the command syntax. 
 
 ## Key details
 
