@@ -1,0 +1,13 @@
+{
+  "name": "escape-google-cloud-hard-solvers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local, testable solution toolkit for the Escape the Google Cloud HARD challenge",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check cli.mjs && node --check apps-script/validateRequests.js"
+  },
+  "license": "MIT"
+}

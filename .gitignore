@@ -1,0 +1,17 @@
+# Never commit organizer data, fragments or team credentials.
+node_modules/
+private/
+outputs/
+.env
+.env.*
+!.env.example
+/*cp1*.json
+/*cp2*.json
+/*cp3*.json
+/*cp4*.json
+/*answers*.json
+/firestore_export.json
+/drive_files.json
+/fragments.json
+*.log
+.DS_Store
